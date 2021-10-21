@@ -19,6 +19,7 @@
       <dependency org="zimbra" name="zm-client" rev="latest.integration" />
       <dependency org="zimbra" name="zm-soap" rev="latest.integration" />
       <dependency org="zimbra" name="zm-store" rev="latest.integration" />
+      <dependency org="javax.xml.bind" name="jaxb-api" rev="2.3.1"/>
       <!-- Transitive Requirements -->
       <dependency org="com.fasterxml.jackson.core" name="jackson-core" rev="2.9.2"/>
       <dependency org="com.fasterxml.jackson.core" name="jackson-annotations" rev="2.9.2"/>
