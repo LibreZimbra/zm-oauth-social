@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <project name="zm-oauth-social" default="jar" xmlns:ivy="antlib:org.apache.ivy.ant">
-  <import file="../zm-zcs/ant-global.xml" />
+  <import file="ant-global.xml" />
   <!-- Properties -->
   <property name="ext.name" value="${ant.project.name}" />
   <property name="zimbra.extension.class" value="com.zimbra.oauth.resources.OAuth2Extension" />
